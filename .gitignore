@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+*.lock
+
+# MacOS
+.DS_Store
+
+
+# Mayo dataset
+Mayo/*
+
+# Other images
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Utilities
+IPPy/*
+
+# CSV examples
+*.csv
+
+# weights
+weights
