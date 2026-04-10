@@ -12,10 +12,11 @@ wheels/
 
 # MacOS
 .DS_Store
-
+imgs/*
 
 # Mayo dataset
 Mayo/*
+
 
 # Other images
 *.bmp
