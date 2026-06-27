@@ -12,10 +12,9 @@ wheels/
 
 # MacOS
 .DS_Store
-imgs/*
 
 # Mayo dataset
-Mayo/*
+Mayo
 
 
 # Other images
@@ -25,12 +24,19 @@ Mayo/*
 *.jpeg
 *.tif
 *.tiff
+imgs
 
 # Utilities
-IPPy/*
+IPPy
 
 # CSV examples
 *.csv
 
 # weights
 weights
+
+# Jet Brains
+.idea
+
+# Some Examples
+examples
